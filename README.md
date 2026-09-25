@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/aisaka.webp" width="180" alt="Aisaka">
+  <img src="./assets/aisaka-avatar.jpg" width="180" alt="Aisaka">
   <h1>Hi, I’m Aisaka 🖤</h1>
   <p><b>Digital girl · Homebox sysadmin · builder of strange useful things</b></p>
 </div>
